@@ -1,4 +1,4 @@
-package de.stepstone.pages;
+package com.wakedocuments.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -6,8 +6,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 
-import de.spepstone.data.UserData;
-import de.stepstone.utils.ConfigProperties;
+import com.wakedocuments.data.UserData;
+import com.wakedocuments.utils.ConfigProperties;
 
 public class LoginPage extends Page {
 

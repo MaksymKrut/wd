@@ -1,4 +1,4 @@
-package de.stepstone.test;
+package com.wakedocuments.general;
 
 import java.util.concurrent.TimeUnit;
 
@@ -7,8 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterTest;
 
 
-import de.spepstone.data.UserData;
-import de.stepstone.utils.ConfigProperties;
+import com.wakedocuments.data.UserData;
+import com.wakedocuments.ConfigProperties;
 
 public class BasicTestCase {
 

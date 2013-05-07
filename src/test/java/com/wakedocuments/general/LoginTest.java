@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 import de.stepstone.pages.HomePage;
 import de.stepstone.pages.LoginPage;
 
+
 public class LoginTest extends BasicTestCase {
 
 	private LoginPage loginPage = PageFactory.initElements(getWebDriver(),
